@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahtab-darman
-- 👀 I’m interested in data science and big data
+- 👀 I’m interested in data science
 - ✨ I’m a computer science learner 
 - 🌱 I’m currently learning frontend (java script / react)
 - 📫 How to reach me. you can send me email by ( mahtabdarman14@gmail.com)
